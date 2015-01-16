@@ -3,8 +3,8 @@ title:       Unit Design Support
 email:       support@unitdesign.com
 author:      Stephen Pence
 description: "Technical Support and Service Procedures for Unit Design, Inc."
-baseurl:     ""
-url:         "http://support.unitdesign.com"
+baseurl:     "/unitdesign-support"
+url:         "http://sjpence.github.io"
 
 # Google analytics
 google_analytics: UA-53548208-1
