@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Unit Design Support
+email:       support@unitdesign.com
+author:      Stephen Pence
+description: "Technical Support and Service Procedures for Unit Design, Inc."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://support.unitdesign.com"
 
 # Google analytics
 google_analytics:
