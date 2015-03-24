@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://support.unitdesign.com"
 
 # Google analytics
-google_analytics: UA-22699218-1
+google_analytics: UA-22699218-2
 
 # Optional features
 animated:           false
